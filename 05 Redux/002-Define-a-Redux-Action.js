@@ -1,3 +1,0 @@
-let action = {
-    type: 'LOGIN'
-  }
